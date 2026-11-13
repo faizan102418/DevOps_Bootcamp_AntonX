@@ -1,1 +1,2 @@
 "This is feature 1 and is ready for production"
+"This is second feat by feat-1"
