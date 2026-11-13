@@ -1,1 +1,2 @@
 "This is my current feat-1 and is about to merge into dev"
+"This is another feature added by feat-1"
